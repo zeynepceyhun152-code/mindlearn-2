@@ -178,3 +178,20 @@ npm run build
 ```
 
 Both passed during preparation.
+
+## Local Run Instructions
+
+```bash
+npm install
+npm run dev
+```
+
+Open `http://localhost:3000`.
+
+On Windows, you can also run:
+
+```powershell
+.\start-mindlearn.ps1
+```
+
+No database or API key is required for demo mode.
