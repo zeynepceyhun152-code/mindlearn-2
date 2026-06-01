@@ -73,10 +73,3 @@ On Windows, you can also run:
 
 No database or API key is required for demo mode.
 
-## Suggested Devpost Short Description
-
-MindLearn is an AI-assisted study dashboard that helps students understand how stress, focus, motivation, sleep, and study behavior affect learning effectiveness, then gives adaptive study strategies based on explainable scoring.
-
-## Suggested Devpost Tags
-
-Education, AI, Next.js, TypeScript, Data Visualization, Student Tools, Learning Analytics
